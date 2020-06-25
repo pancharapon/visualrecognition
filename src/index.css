@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Courier Next', courier, monospace;
+	background: linear-gradient(to right, rgba(37,242,234,1) 25%, rgba(232,63,255,1) 100%);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
